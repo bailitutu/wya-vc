@@ -7,7 +7,7 @@
 
 #### 
 
-- 安装
+- 安装流程
 
 ```vim
 npm install @wya/vc --save
